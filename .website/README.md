@@ -1,4 +1,8 @@
 ---
+genres:
+  - stealth
+  - puzzle
+  - strategy
 directors_cut: https://lc-apps.co.uk/app/game/404
 # See github.com/js13kGames/hello-world for supported frontmatter
 ---
